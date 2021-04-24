@@ -3,6 +3,7 @@
 To  clone this repo :
 
 `git clone https://github.com/vladsancira/nodejs-uvt.git`
+`cd nodejs-uvt`
 
 To build the nodeJs application with Docker :
 
@@ -15,7 +16,6 @@ To run the nodeJs application with Docker as a daemon :
 To check that application is working :
 
 `curl localhost:8080/nodejs` 
-
 
 To check the running containers :
 

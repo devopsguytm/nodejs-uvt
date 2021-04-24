@@ -1,5 +1,8 @@
 # nodejs-uvt
 
+To  clone this repo :
+
+`git clone https://github.com/vladsancira/nodejs-uvt.git`
 
 To build the nodeJs application with Docker :
 

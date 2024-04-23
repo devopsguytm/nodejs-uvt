@@ -4,7 +4,7 @@ a new modification was required
 
 To  clone this repo :
 
-`git clone https://github.com/vladsancira/nodejs-uvt.git`
+`git clone https://github.com/bogdanobogeanu/nodejs-uvt.git`
 
 Then change folder to nodejs-uvt:
 
